@@ -1,0 +1,51 @@
+body{
+    background-color: #fff;
+    display:flex ;
+}
+
+.container{
+    width: 70%;
+    min-height: 100vh;
+    background-color: #fff;
+    margin: 1 auto;
+}
+
+.map{
+    width: 30%;
+    min-height: 100vh;
+    margin-right: 0px;
+    background-color: #fff;
+    margin: 1 auto;
+}
+
+header{
+    position: fixed;    
+    text-align: center;
+    width: 70%;
+    
+}
+section{
+    width: 100%;
+}
+.logo{
+    width: 120px;
+
+}
+
+
+
+
+.card-group{
+    background:rgba(17, 84, 178, 0.755);
+    width: 40%;
+}
+
+.card{
+    background: rgba(255, 255, 255, 0.866);
+    border-radius: 20px;
+    text-align: center;
+}
+.card_parent{
+    /* display: flex; */
+    
+}
